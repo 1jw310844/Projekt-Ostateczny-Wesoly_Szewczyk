@@ -1,0 +1,17 @@
+release/generator.o
+release/main.o
+release/mainwindow.o
+release/obiektarx.o
+release/oknogenerator.o
+release/oknoobiektarx.o
+release/oknoregulator.o
+release/regulator.o
+release/symulator.o
+release/warstwauslug.o
+release/wykresy.o
+release/moc_mainwindow.o
+release/moc_oknogenerator.o
+release/moc_oknoobiektarx.o
+release/moc_oknoregulator.o
+release/moc_warstwauslug.o
+release/moc_wykresy.o

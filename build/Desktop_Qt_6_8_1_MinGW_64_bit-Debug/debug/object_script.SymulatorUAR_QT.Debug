@@ -1,0 +1,17 @@
+debug/generator.o
+debug/main.o
+debug/mainwindow.o
+debug/obiektarx.o
+debug/oknogenerator.o
+debug/oknoobiektarx.o
+debug/oknoregulator.o
+debug/regulator.o
+debug/symulator.o
+debug/warstwauslug.o
+debug/wykresy.o
+debug/moc_mainwindow.o
+debug/moc_oknogenerator.o
+debug/moc_oknoobiektarx.o
+debug/moc_oknoregulator.o
+debug/moc_warstwauslug.o
+debug/moc_wykresy.o
