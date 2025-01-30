@@ -1,0 +1,10 @@
+Amplituda: 66
+Okres: 0
+Wypelnienie: 0
+Rodzaj Sygnalu: 0
+Wzmocnienie: 0.1
+Stala I: 5
+Stala D: 0.1
+Opoznienie: 1
+Współczynniki A: 0.5 0.4 0.3 
+Współczynniki B: 0.3 0.2 0.1 
